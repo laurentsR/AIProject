@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?><!--XML code for activity_main.xml-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context=".MainActivity">
+
+    <!--Heading Text View-->
+
+    <!--This will display the status of our app when we will record some audio
+    and play that audio-->
+
+    <!--Linear Layout for adding textviews in horizontal manner-->
+
+    <TextView
+        android:id="@+id/selectOption"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/select_option"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="48sp" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/selectOption"
+        android:layout_marginBottom="145dp"
+        android:layout_marginTop="80dp"
+        android:baselineAligned="false"
+        android:orientation="horizontal"
+        android:weightSum="4">
+
+        <!--Textview to start audio recording
+        drawableTop will add above mic image-->
+
+        <!--Textview to stop audio recording
+               drawableTop will add above mic image-->
+
+        <!--Textview to play audio that is recorded
+       drawableTop will add above mic image-->
+
+        <!--Textview to pause the play of audio recording
+       drawableTop will add above mic image-->
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <TableRow
+                android:id="@+id/tableRow"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/btnUpload"
+                    android:layout_width="30dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_weight="1"
+                    android:background="@color/teal_700"
+                    android:padding="5dp"
+                    android:text="@string/audio_recorder"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textSize="34sp"
+                    app:drawableTopCompat="@drawable/ic_start_recording" />
+
+                <TextView
+                    android:id="@+id/btnUpload"
+                    android:layout_width="30dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_weight="1"
+                    android:background="@color/teal_700"
+                    android:padding="5dp"
+                    android:text="@string/audio_uploader"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textSize="34sp"
+                    app:drawableTopCompat="@drawable/ic_start_uploading" />
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="140dp">
+
+                <Button
+                    android:id="@+id/btnHelp"
+                    android:layout_width="44dp"
+                    android:layout_height="57dp"
+                    android:layout_alignParentBottom="false"
+                    android:layout_alignParentEnd="false"
+                    android:translationX="10dp"
+                    app:backgroundTint="@color/teal_700"
+                    app:drawableTopCompat="@drawable/ic_help"
+                    tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+            </TableRow>
+
+        </TableLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
