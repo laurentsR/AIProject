@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.gtappdevelopers.camviewlibrary",
+  "applicationId": "com.example.meetingsummarygenerator",
   "variantName": "processDebugResources",
   "elements": [
     {

@@ -13,6 +13,8 @@
     <string name="play_recording">Play Recording</string>
     <string name="stop_playing">Stop Playing</string>
     <string name="generate_summary">Generate Summary</string>
+    <string name="meeting_summary">Meeting Summary</string>
+    <string name="meeting_summary_placeholder">The meeting summary will appear here once summary generation is finished.</string>
     <string name="status">Status</string>
     <string name="dialog_title">Help / More Information</string>
     <string name="dialog_message">The Meeting Summary Generator is an Android mobile application that takes recorded audio from a meeting and generates a summary, using Artificial Intelligence and Machine Learning techniques. It will do this by initially converting audio into text, then summarizing that converted text. Since there are already existing speech-to-text Python libraries, this project will focus on the text summarization aspect. The SpeechRecognition Python library will be used as it supports several well-known speech recognition APIs (i.e., Google Speech Recognition, IBM Speech to Text). The user will upload an audio file consisting of meeting audio into the mobile application and the SpeechRecognition library will then convert that file into text. A Machine Learning model will receive the converted text as input and output a summary of that text. The mobile application will provide the summary of the meeting to the user.</string>

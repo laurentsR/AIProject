@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">966287175813-oi4nqh7a8lreetipklh8rnfg3o0803ti.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">966287175813</string>
+    <string name="google_api_key" translatable="false">AIzaSyD0ysl3PXOX5zSUF2EpSD82sXkJPE25lDk</string>
+    <string name="google_app_id" translatable="false">1:966287175813:android:2acfef72400a4b6e9739ec</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD0ysl3PXOX5zSUF2EpSD82sXkJPE25lDk</string>
+    <string name="google_storage_bucket" translatable="false">meeting-summary-generator.appspot.com</string>
+    <string name="project_id" translatable="false">meeting-summary-generator</string>
+</resources>

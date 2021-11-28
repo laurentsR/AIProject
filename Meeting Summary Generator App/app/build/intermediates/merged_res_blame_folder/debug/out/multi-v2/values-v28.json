@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml",
+            "outputFile": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "/Users/madisonadams/.gradle/caches/transforms-2/files-2.1/c63d4a666c0a1ba98c2e2f24b9638d9e/material-1.2.1/res/values-v28/values-v28.xml",
+                    "source": "/Users/madisonadams/.gradle/caches/transforms-2/files-2.1/7781d1f69010359b564b7850ce5d2611/material-1.2.1/res/values-v28/values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/madisonadams/.gradle/caches/transforms-2/files-2.1/4f9c7f78c15bb692cf0895b881aafbad/appcompat-1.2.0/res/values-v28/values-v28.xml",
+                    "source": "/Users/madisonadams/.gradle/caches/transforms-2/files-2.1/607da5e6eb67f10a1787670c7ddda5bb/appcompat-1.2.0/res/values-v28/values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",

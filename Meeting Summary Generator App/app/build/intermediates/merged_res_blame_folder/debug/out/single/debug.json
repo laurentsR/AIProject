@@ -1,298 +1,302 @@
 [
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_start_recording.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-hdpi/ic_start_recording.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_app_logo.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_app_logo.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_play_audio.xml.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_play_audio.xml"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_stop_recording.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_stop_recording.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_stop_recording.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_stop_recording.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_stop_recording.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-mdpi/ic_stop_recording.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_foreground.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_foreground.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_summary.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_summary.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/menu_main_menu.xml.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/src/main/res/menu/main_menu.xml"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_play_audio.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-mdpi/ic_play_audio.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_play_audio.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-hdpi/ic_play_audio.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pause_audio.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_pause_audio.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_summary.xml.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_summary.xml"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_back.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-hdpi/ic_back.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_back.xml.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_back.xml"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_back.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-ldpi/ic_back.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pause_audio.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_pause_audio.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_pause_audio.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_pause_audio.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_foreground.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_stop_recording.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-ldpi/ic_stop_recording.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_stop_recording.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_stop_recording.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_start_recording.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-hdpi/ic_start_recording.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_pause_audio.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-ldpi/ic_pause_audio.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_start_recording.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_start_recording.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_play_audio.xml.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_play_audio.xml"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_stop_recording.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_stop_recording.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_app_logo.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-ldpi/ic_app_logo.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_summary.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_summary.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_foreground.xml"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_stop_recording.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-hdpi/ic_stop_recording.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_summary.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_summary.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/layout_generated_summary.xml.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/src/main/res/layout/generated_summary.xml"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_app_logo.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_app_logo.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_stop_recording.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_stop_recording.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_summary.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-hdpi/ic_summary.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_start_recording.xml.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_start_recording.xml"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_back.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-mdpi/ic_back.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_pause_audio.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-ldpi/ic_pause_audio.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_help.xml.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_help.xml"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_summary.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-mdpi/ic_summary.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_start_recording.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_start_recording.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_summary.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-ldpi/ic_summary.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_play_audio.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_play_audio.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_play_audio.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_play_audio.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_start_recording.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_start_recording.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_app_logo.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-hdpi/ic_app_logo.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_play_audio.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-hdpi/ic_play_audio.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/layout_record.xml.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/src/main/res/layout/record.xml"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_start_recording.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-ldpi/ic_start_recording.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_stop_recording.xml.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_stop_recording.xml"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_pause_audio.xml.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_pause_audio.xml"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pause_audio.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_pause_audio.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_play_audio.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_play_audio.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_summary.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_summary.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_stop_recording.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-hdpi/ic_stop_recording.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_start_recording.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_start_recording.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/layout_upload.xml.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/src/main/res/layout/upload.xml"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_foreground.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_stop_recording.xml.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_stop_recording.xml"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_summary.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_summary.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_back.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_back.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_pause_audio.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-mdpi/ic_pause_audio.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_stop_recording.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-ldpi/ic_stop_recording.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_play_audio.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-mdpi/ic_play_audio.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_play_audio.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_play_audio.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_app_logo.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_app_logo.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pause_audio.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_pause_audio.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/layout_upload.xml.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/src/main/res/layout/upload.xml"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_summary.xml.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_summary.xml"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_pause_audio.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-hdpi/ic_pause_audio.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_start_uploading.xml.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_start_uploading.xml"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_start_recording.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-mdpi/ic_start_recording.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_back.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_back.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_play_audio.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-ldpi/ic_play_audio.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_start_recording.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-mdpi/ic_start_recording.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_start_recording.xml.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_start_recording.xml"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_stop_recording.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_stop_recording.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_foreground.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_pause_audio.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-mdpi/ic_pause_audio.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_app_logo.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-mdpi/ic_app_logo.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_summary.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_summary.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_start_uploading.xml.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_start_uploading.xml"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_start_recording.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_start_recording.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_app_logo.xml.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_app_logo.xml"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_help.xml.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_help.xml"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_summary.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-mdpi/ic_summary.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_start_recording.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-ldpi/ic_start_recording.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_back.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_back.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_foreground.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_pause_audio.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_pause_audio.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_start_recording.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_start_recording.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/layout_record.xml.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/src/main/res/layout/record.xml"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_play_audio.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_play_audio.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/src/main/res/layout/activity_main.xml"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/menu_main_menu.xml.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/src/main/res/menu/main_menu.xml"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_pause_audio.xml.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_pause_audio.xml"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_pause_audio.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-hdpi/ic_pause_audio.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_play_audio.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_play_audio.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_stop_recording.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-mdpi/ic_stop_recording.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_summary.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-hdpi/ic_summary.png"
     },
     {
-        "merged": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_summary.png.flat",
-        "source": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/generated/res/pngs/debug/drawable-ldpi/ic_summary.png"
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_play_audio.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/generated/res/pngs/debug/drawable-ldpi/ic_play_audio.png"
+    },
+    {
+        "merged": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     }
 ]

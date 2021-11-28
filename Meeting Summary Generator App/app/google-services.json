@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966287175813",
+    "project_id": "meeting-summary-generator",
+    "storage_bucket": "meeting-summary-generator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966287175813:android:2acfef72400a4b6e9739ec",
+        "android_client_info": {
+          "package_name": "com.example.meetingsummarygenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966287175813-oi4nqh7a8lreetipklh8rnfg3o0803ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ysl3PXOX5zSUF2EpSD82sXkJPE25lDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966287175813-oi4nqh7a8lreetipklh8rnfg3o0803ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CamView_Library.iml" filepath="$PROJECT_DIR$/.idea/modules/CamView_Library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CamView_Library.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CamView_Library.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Meeting_Summary_Generator.iml" filepath="$PROJECT_DIR$/.idea/modules/Meeting_Summary_Generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Meeting_Summary_Generator.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Meeting_Summary_Generator.app.iml" />
     </modules>
   </component>
 </project>

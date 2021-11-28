@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/madisonadams/Downloads/QR_Code_Scanner-Audio_recorder/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-small-v4/values-small-v4.xml",
+            "outputFile": "/Users/madisonadams/Documents/CSE 4308 - AI/Project/AIProject/Meeting Summary Generator App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-small-v4/values-small-v4.xml",
             "map": [
                 {
-                    "source": "/Users/madisonadams/.gradle/caches/transforms-2/files-2.1/c63d4a666c0a1ba98c2e2f24b9638d9e/material-1.2.1/res/values-small-v4/values-small-v4.xml",
+                    "source": "/Users/madisonadams/.gradle/caches/transforms-2/files-2.1/7781d1f69010359b564b7850ce5d2611/material-1.2.1/res/values-small-v4/values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

@@ -1,22 +1,30 @@
-com/gtappdevelopers/camviewlibrary/RecordAudio.java
- com.gtappdevelopers.camviewlibrary.RecordAudio
- com.gtappdevelopers.camviewlibrary.RecordAudio$1
- com.gtappdevelopers.camviewlibrary.RecordAudio$2
- com.gtappdevelopers.camviewlibrary.RecordAudio$3
- com.gtappdevelopers.camviewlibrary.RecordAudio$4
-com/gtappdevelopers/camviewlibrary/UploadAudio.java
- com.gtappdevelopers.camviewlibrary.UploadAudio
- com.gtappdevelopers.camviewlibrary.UploadAudio$1
- com.gtappdevelopers.camviewlibrary.UploadAudio$2
- com.gtappdevelopers.camviewlibrary.UploadAudio$3
- com.gtappdevelopers.camviewlibrary.UploadAudio$4
-com/gtappdevelopers/camviewlibrary/App.java
- com.gtappdevelopers.camviewlibrary.App
-com/gtappdevelopers/camviewlibrary/MainActivity.java
- com.gtappdevelopers.camviewlibrary.MainActivity
- com.gtappdevelopers.camviewlibrary.MainActivity$1
- com.gtappdevelopers.camviewlibrary.MainActivity$2
- com.gtappdevelopers.camviewlibrary.MainActivity$3
- com.gtappdevelopers.camviewlibrary.MainActivity$3$1
-com/gtappdevelopers/camviewlibrary/BuildConfig.java
- com.gtappdevelopers.camviewlibrary.BuildConfig
+com/example/meetingsummarygenerator/RecordAudio.java
+ com.example.meetingsummarygenerator.RecordAudio
+ com.example.meetingsummarygenerator.RecordAudio$1
+ com.example.meetingsummarygenerator.RecordAudio$2
+ com.example.meetingsummarygenerator.RecordAudio$3
+ com.example.meetingsummarygenerator.RecordAudio$4
+ com.example.meetingsummarygenerator.RecordAudio$5
+ com.example.meetingsummarygenerator.RecordAudio$6
+ com.example.meetingsummarygenerator.RecordAudio$7
+ com.example.meetingsummarygenerator.RecordAudio$8
+com/example/meetingsummarygenerator/GenerateSummary.java
+ com.example.meetingsummarygenerator.GenerateSummary
+ com.example.meetingsummarygenerator.GenerateSummary$1
+com/example/meetingsummarygenerator/UploadAudio.java
+ com.example.meetingsummarygenerator.UploadAudio
+ com.example.meetingsummarygenerator.UploadAudio$1
+ com.example.meetingsummarygenerator.UploadAudio$2
+ com.example.meetingsummarygenerator.UploadAudio$3
+ com.example.meetingsummarygenerator.UploadAudio$4
+ com.example.meetingsummarygenerator.UploadAudio$5
+com/example/meetingsummarygenerator/MainActivity.java
+ com.example.meetingsummarygenerator.MainActivity
+ com.example.meetingsummarygenerator.MainActivity$1
+ com.example.meetingsummarygenerator.MainActivity$2
+ com.example.meetingsummarygenerator.MainActivity$3
+ com.example.meetingsummarygenerator.MainActivity$3$1
+com/example/meetingsummarygenerator/App.java
+ com.example.meetingsummarygenerator.App
+com/example/meetingsummarygenerator/BuildConfig.java
+ com.example.meetingsummarygenerator.BuildConfig
