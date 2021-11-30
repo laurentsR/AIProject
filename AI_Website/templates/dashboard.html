@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Summarizer App</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/dashboard.css') }}">
+    {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        <ul class=flashes>
+        {% for message in messages %}
+          <li>{{ message }}</li>
+        {% endfor %}
+        </ul>
+      {% endif %}
+    {% endwith %}
+    </br>
+    </br>
+    </br>
+    <h1 style="text-align:center;color:white">Meeting Summary Generator</h1>
+    <p style="text-align:center;color:white">Please either record or upload an audio file that you would like to summarize.</p>
+
+  </head>
+  <body>
+    <div class = "menu">
+      <button class="button button3" onclick="location.href='/record/'">Record Audio</button><br>
+      <button class="button button3" onclick="location.href='/upload/'">Upload Audio</button><br>
+    </div>
+  </body>
+</html>
