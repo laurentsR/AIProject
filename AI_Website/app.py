@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, flash, redirect, session, url_for, Blueprint, send_from_directory, send_file
+from flask import Flask, render_template, request, flash, redirect, send_file
 import os
 import shutil
 from pydub import AudioSegment
@@ -8,8 +8,14 @@ from nltk.corpus import stopwords
 from nltk.cluster.util import cosine_distance
 import numpy as np
 import networkx as nx
+import glob
 
 app = Flask(__name__)
+
+app.secret_key = 'super super secret key'
+
+# CHANGE THIS TO YOUR OWN BASE DIRECTORY
+baseDirectory = 'D:/Ryans School/CSE 4308 - Artificial Intelligence/Project/AI_Website/'
 
 def speechToText(audio):
     r = sr.Recognizer()
@@ -59,7 +65,6 @@ def get_large_audio_transcription(path, silenceLength):
                 print("Error:", str(e))
             else:
                 text = f"{text.capitalize()}. "
-                print(chunk_filename, ":", text)
                 whole_text += text
     # return the text for all chunks detected
     return whole_text
@@ -115,12 +120,13 @@ def build_similarity_matrix(sentences, stop_words):
 
     return similarity_matrix
 
-def generate_summary(text, top_n=3):
+def generate_summary(text, top_n):
     stop_words = stopwords.words('english')
     summarize_text = []
 
     # Step 1 - Read text anc split it
     sentences =  read_article(text)
+    numSentences = len(sentences)
 
     # Step 2 - Generate Similary Martix across sentences
     sentence_similarity_martix = build_similarity_matrix(sentences, stop_words)
@@ -131,13 +137,14 @@ def generate_summary(text, top_n=3):
 
     # Step 4 - Sort the rank and pick top sentences
     ranked_sentence = sorted(((scores[i],s) for i,s in enumerate(sentences)), reverse=True)
-    print("Indexes of top ranked_sentence order are ", ranked_sentence)
 
-    try:
-        for i in range(top_n):
-            summarize_text.append(" ".join(ranked_sentence[i][1]))
-    except IndexError:
-        pass
+    requestedSentences = top_n
+    if(numSentences < requestedSentences):
+        requestedSentences = numSentences
+
+    for i in range(requestedSentences):
+        summarize_text.append(" ".join(ranked_sentence[i][1]))
+
 
     # Step 5 - Offcourse, output the summarize text
     f = open("summary.txt", "w")
@@ -173,4 +180,66 @@ def uploadFile():
 
 @app.route('/upload/<path:filename>', methods=['GET'])
 def downloadFile(filename):
-    return send_file('/Ryans School/CSE 4308 - Artificial Intelligence/Project/AI_Website/'+filename, as_attachment=True)
+    # Root folder for project
+    return send_file(filename, as_attachment=True)
+
+@app.route('/record/')
+def record():
+    return render_template('record.html')
+
+@app.route('/save-record/', methods=['GET', 'POST'])
+def save_record():
+    if 'file' not in request.files:
+        flash('No file part')
+        return redirect(request.url)
+    file = request.files['file']
+    if file.filename == '':
+        flash('No selected file')
+        return redirect(request.url)
+    defaultName = "Recording"
+    file_name = defaultName + ".mp3"
+    # Root folder for the app + recordings
+    full_file_name = os.path.join(baseDirectory, 'recordings', file_name)
+    count = 0
+    while(os.path.isfile(full_file_name)):
+        count += 1
+        if(count > 1):
+            defaultName = defaultName[:9]
+            defaultName += '['+str(count)+']'
+        else:
+            defaultName += '['+str(count)+']'
+        file_name = defaultName + ".mp3"
+        # Root folder + recordings 
+        full_file_name = os.path.join(baseDirectory, 'recordings', file_name)
+    file.save(full_file_name)
+    return render_template('record.html')
+
+@app.route('/summarize/', methods=['POST'])
+def summarizeFile():
+    if request.method == 'POST':
+        try:
+            # Get most recent recording
+            folderPath = baseDirectory + 'recordings'
+            fileType = '\*mp3'
+            files = glob.glob(folderPath + fileType)
+            maxFile = max(files, key = os.path.getctime)
+            file = maxFile
+
+            silenceLength = int(request.form['silenceLength'])
+            fullText = get_large_audio_transcription(file, silenceLength)
+            textFile = open("fullText.txt", "w")
+            textFile.write(fullText)
+            textFile.close()
+            n = int(request.form['n'])
+            generate_summary("fullText.txt", n)
+            fullText = "fullText.txt"
+            summary = "summary.txt"
+            return render_template('record.html', fullText=fullText, summary=summary)
+        except:
+            flash(f"Unexpected error when uploading file, please try again.")
+            return redirect('/record/')
+
+@app.route('/record/<path:filename>', methods=['GET'])
+def downloadSummary(filename):
+    # Root folder for project
+    return send_file(filename, as_attachment=True)

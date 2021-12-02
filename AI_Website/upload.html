@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Summarizer App</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/dashboard.css') }}">
+    {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        <ul class=flashes>
+        {% for message in messages %}
+          <li>{{ message }}</li>
+        {% endfor %}
+        </ul>
+      {% endif %}
+    {% endwith %}
+  </head>
+  <body>
+    <button class="button button4" onclick="location.href='/'">Back</button><br>
+    </br>
+    </br>
+    </br>
+    <h1 style="text-align:center;color:white">Upload Audio</h1>
+    <p style="text-align:center;color:white">After selecting an audio file, click submit. The summarizer will take some time to run and will return a text file available for download.</p>
+    <div class = "menu">
+      <form action = "http://localhost:5000/upload/" method = "POST" enctype = "multipart/form-data">
+        <p style="color:white">Please select the length of pauses between sentences. If your summary includes partial sentences, select a longer pause length. If it includes combined sentences, select a shorter pause length.</p>
+        <input type = "radio" id="500ms" name = "silenceLength" value="500"/>
+        <label for="500ms" style="color:white">500ms</label>
+        <input type = "radio" id="700ms" name = "silenceLength" value="700" checked/>
+        <label for="700ms" style="color:white">700ms</label>
+        <input type = "radio" id="900ms" name = "silenceLength" value="900"/>
+        <label for="900ms" style="color:white">900ms</label>
+        </br>
+        </br>
+
+        <p style="color:white">Select the number of sentences you would like to have in your summary.</p>
+        <select name="n" id="n">
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3" selected="selected">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+          <option value="6">6</option>
+          <option value="7">7</option>
+          <option value="8">8</option>
+          <option value="9">9</option>
+          <option value="10">10</option>
+        </select>
+        </br>
+        </br>
+        </br>
+        <input type = "file" name = "file" />
+        <div id="loading"></div>
+        <div id = "container">
+          <button type="submit" class="btn btn-primary btn-block btn-large" onclick="loading();">Submit</button>
+        </div>
+      </form>
+      {% if fullText %}
+      <button class="button button2" onclick="location.href='/upload/{{fullText}}'">Download Full Text</button>
+      {% endif %}
+      {% if summary %}
+      <button class="button button2" onclick="location.href='/upload/{{summary}}'">Download Summary</button>
+      {% endif %}
+    </div>
+  </body>
+</html>
+
+<script type="text/javascript">
+  function loading()
+  {
+    document.getElementById('container').style.display = 'none';
+    document.getElementById('loading').style.display = 'block';     
+  }
+</script>
