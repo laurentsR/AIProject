@@ -17,11 +17,14 @@ import shutil
 from pydub import AudioSegment
 from pydub.silence import split_on_silence
 import speech_recognition as sr
+import nltk
 from nltk.corpus import stopwords
 from nltk.cluster.util import cosine_distance
 import numpy as np
 import networkx as nx
 import glob
+
+nltk.download('stopwords')
 
 app = Flask(__name__)
 
@@ -274,3 +277,11 @@ def uploadTextFile():
 def downloadTextFile(filename):
     # Root folder for project
     return send_file(filename, as_attachment=True)
+    path = os.getcwd() + '/' + filename
+    print(path)
+    return send_file(path, as_attachment=True)
+
+@app.route('/favicon.ico')
+def favicon():
+    return send_from_directory(os.path.join(app.root_path, 'static'),
+                               'favicon.ico', mimetype='image/vnd.microsoft.icon')

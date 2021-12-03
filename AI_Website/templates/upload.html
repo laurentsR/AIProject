@@ -21,7 +21,7 @@
     <h1 style="text-align:center;color:white">Upload Audio</h1>
     <p style="text-align:center;color:white">After selecting an audio file, click submit. The summarizer will take some time to run and will return a text file available for download.</p>
     <div class = "menu">
-      <form action = "http://localhost:5000/upload/" method = "POST" enctype = "multipart/form-data">
+      <form style="text-align: center;" action = "http://localhost:5000/upload/" method = "POST" enctype = "multipart/form-data">
         <p style="color:white">Please select the length of pauses between sentences. If your summary includes partial sentences, select a longer pause length. If it includes combined sentences, select a shorter pause length.</p>
         <input type = "radio" id="500ms" name = "silenceLength" value="500"/>
         <label for="500ms" style="color:white">500ms</label>
@@ -48,7 +48,7 @@
         </br>
         </br>
         </br>
-        <input type = "file" name = "file" />
+        <input style="text-align: center;" type = "file" name = "file" />
         <div id="loading"></div>
         <div id = "container">
           <button type="submit" class="btn btn-primary btn-block btn-large" onclick="loading();">Submit</button>

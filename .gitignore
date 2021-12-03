@@ -1,0 +1,12 @@
+*/__pycache__/
+**/audio-chunks/
+*/bin/
+*/include/
+*/lib/
+*/share/
+pyvenv.cfg
+*.txt
+!requirements.txt
+*.wav
+**/.DS_Store
+workspace.xml
