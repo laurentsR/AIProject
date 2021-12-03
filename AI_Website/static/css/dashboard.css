@@ -112,3 +112,14 @@ input:focus { box-shadow: inset 0 -5px 45px rgba(100,100,100,0.4), 0 1px 1px rgb
   background: url(/static/loading.gif) no-repeat center;
   background-size: cover;
 }
+
+#loading3{
+  display: none;
+  position: fixed;
+  top: 60%;
+  left: 49%;
+  width: 45px;
+  height: 45px;
+  background: url(/static/loading.gif) no-repeat center;
+  background-size: cover;
+}
