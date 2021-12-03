@@ -243,3 +243,38 @@ def summarizeFile():
 def downloadSummary(filename):
     # Root folder for project
     return send_file(filename, as_attachment=True)
+
+@app.route('/textUpload/')
+def textUpload():
+    return render_template('textUpload.html')
+
+@app.route('/textUpload/', methods=['POST'])
+def uploadTextFile():
+    if request.method == 'POST':
+        try:
+            print("1")
+            file = request.files['file']
+            print("2")
+            file.save('temp.txt')
+            n = int(request.form['n'])
+            # shutil.copyfile(file, 'fullText.txt')
+            # with open(file, 'r') as firstFile:
+            #     with open("fullText.txt", "a") as textFile:
+            #         for line in firstFile:
+            #             textFile.write(line)
+            # firstFile.close()
+            # textFile.close()
+            print("3")
+            generate_summary("temp.txt", n)
+            print("4")
+            summary = "summary.txt"
+            print("5")
+            return render_template('textUpload.html', summary=summary)
+        except:
+            flash(f"Unexpected error when uploading file, please try again.")
+            return redirect('/textUpload/')
+
+@app.route('/textUpload/<path:filename>', methods=['GET'])
+def downloadTextFile(filename):
+    # Root folder for project
+    return send_file(filename, as_attachment=True)
